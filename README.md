@@ -31,4 +31,4 @@ Link :link: [Incident Report and Response Report](https://github.com/FredericGar
 [![Tanable CVE](https://img.shields.io/badge/Tenable_CVEs-003d7d?style=flat-square)](https://www.tenable.com/cve) \
 [![NIST NVD](https://img.shields.io/badge/NIST_NVD-003d7d?style=flat-square)](https://nvd.nist.gov/vuln/search)
 
-Link :link: [Vulnerability Assessment Report](https://docs.google.com/document/d/1Xc7KcfH1X_6_gXpwJ76etJ5COnZTvPzoQKrX9fsxWjc/edit?usp=sharing)
+Link :link: [Vulnerability Assessment Report](https://github.com/FredericGariepy/CyberEnergy/blob/main/Projects/Frederic_Gariepy_Power_Pulse_Vulnerability_Assessment_Report.pdf)
