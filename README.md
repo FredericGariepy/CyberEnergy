@@ -10,7 +10,7 @@ Here are completed projects for the Cybersecurity for Energy Program.
 
 **Tools Used:**  
 [![Purdue Model Framework for ICS](https://img.shields.io/badge/Purdue_Model_Framework_for_ICS-000000?style=flat-square)](https://www.energy.gov/sites/default/files/2022-10/Infra_Topic_Paper_4-14_FINAL.pdf) \
-[![NIST 800-82r3 Guide to OT Security](https://img.shields.io/badge/NIST_800_82r3-Guide_to_Operational_Technology_(OT)_Security-003d7d?style=flat-square)](https://csrc.nist.gov/pubs/sp/800/82/r3/final) \
+[![NIST 800-82r3 Guide to OT Security](https://img.shields.io/badge/NIST_800_82r3-Guide_to_Operational_Technology_(OT)_Security-003d7d?style=flat-square)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82r3.pdf) \
 [![6Sigma Prioritization Matrix](https://img.shields.io/badge/6Sigma_Prioritization_Matrix-3776AB?style=flat-square)](https://www.6sigma.us/project-management/project-prioritization-matrix-lean-six-sigma/)
 
 - [View Security Gap Assessment Report](https://github.com/FredericGariepy/CyberEnergy/blob/main/Projects/Frederic_Gariepy_Security_Gap_Assessment_Report.pdf)
